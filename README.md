@@ -2,10 +2,10 @@
 ## Reg No: 212222240031
 ## Date :
 
-# Exp.no.09  A project on Time series analysis on weather forecasting using ARIMA model 
+# Exp.no.09  A project on Time series analysis on Tesla Stock Prediction using ARIMA model 
 
 ## AIM:
-To Create a project on Time series analysis on weather forecasting using ARIMA model in  Python and compare with other models.
+To Create a project on Time series analysis on Tesla Stock Prediction using ARIMA model in  Python and compare with other models.
 ## ALGORITHM:
 1. Explore the dataset of tesla stock prediction
 2. Check for stationarity of time series time series plot
